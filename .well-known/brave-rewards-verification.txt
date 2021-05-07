@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: laotrabuenosairestours.com.ar
+Token: 96d9e3742633ab232ff5cf77964f7348b343549bd24ec2da52c0aa4f02fb5300
