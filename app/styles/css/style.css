@@ -136,7 +136,7 @@ body {
 .carouselTestimonios__titulo {
   margin-left: 5%;
   padding-top: 1%;
-  color: #D3D3D3;
+  color: #B22222;
   font-weight: bold; }
 
 .carouselTestimonios__opinion {
@@ -148,7 +148,7 @@ body {
   font-size: 12px;
   margin-top: 1%;
   border-radius: 10px;
-  color: #D3D3D3;
+  color: #000000;
   background: rgba(123, 128, 136, 0.3);
   overflow-wrap: hidden; }
 
