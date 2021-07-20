@@ -89,15 +89,17 @@
     .footer{
     background-color: $fondo;
     }
-    .footer__comienzo{
+    .footer__espaciador{
+    background-color: $fondo;
     max-width: 100%;
     height: 5vh;
-    background-color: $fondo;
+    
     }
     .footer__final{
+    background-color: $fondo;
     max-width: 100%;
     height: 12.5vh;
-    background-color: $fondo;
+    
     }
     .footer__borderR{
     border-right: solid 1px $texto2;
