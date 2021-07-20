@@ -5,7 +5,7 @@
 
 body {
   margin: 0;
-  background-color: #A4161A; }
+  background-color: #FAEBD7; }
 
 @font-face {
   font-family: x;
@@ -31,6 +31,7 @@ body {
 .titulo__tipografia, .subtitulo__tipografia {
   font-weight: bold;
   font-size: 32px;
+  color: #B22222;
   text-align: center;
   margin-top: 2vw;
   margin-bottom: 1vw; }
@@ -135,7 +136,7 @@ body {
 .carouselTestimonios__titulo {
   margin-left: 5%;
   padding-top: 1%;
-  color: #D3D3D3;
+  color: #B22222;
   font-weight: bold; }
 
 .carouselTestimonios__opinion {
@@ -147,7 +148,7 @@ body {
   font-size: 12px;
   margin-top: 1%;
   border-radius: 10px;
-  color: #D3D3D3;
+  color: #000000;
   background: rgba(123, 128, 136, 0.3);
   overflow-wrap: hidden; }
 
